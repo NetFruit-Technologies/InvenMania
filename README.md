@@ -1,2 +1,2 @@
 # InvenMania
-Fantasy Game
+A fantasy game brought to you by NetFruit Technologies Labs!
