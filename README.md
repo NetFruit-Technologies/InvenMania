@@ -1,4 +1,4 @@
-# Plan for Fantasy Game
+# Plan for Fantasy Game (This is the branch for the database used in the game)
 
 
 ## NOTE: The main project will be in the `main` branch. Thank you
