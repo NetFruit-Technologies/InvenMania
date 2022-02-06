@@ -3,8 +3,7 @@
 
 ## NOTE: The main project will be in the `main` branch. Thank you
 
-### A fantasy game where the player will read a set of instructions via a web-page which will guide them what to do and what options to choose
-to proceed. The choices are made by a virtual dice roll or dice rolls
+### A fantasy game where the player will read a set of instructions via a web-page which will guide them what to do and what options to choose to proceed. The choices are made by a virtual dice roll or dice rolls
 
 Characters:
 Tusk - Dwarf
