@@ -1,0 +1,11 @@
+Two modes:
+
+Space and Terrain.
+
+How to complete each terrain level:
+
+Use an object called Teleporter.
+
+Space edition will use the solar system to go through tasks.
+
+Both versions might both have levels. Mabye level editors...
